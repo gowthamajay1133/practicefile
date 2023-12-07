@@ -1,0 +1,17 @@
+<html><head><title>MY DEMO FILE</title>
+</head><body><center><font size="9" color="BLUE"> DEVOPS FILE </font></center><hr><hr><hr>
+
+<h2><font size="5" color="green">what is devops:</font></h2>
+<img src="https://techedo.com/blog/wp-content/uploads/2021/03/devops-training-in-chandigarh-by-techedo-technologies.jpg" widhth="500px" height="250" align="right">
+<p><font size="3" color="silver">DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity:</font></p><font size="3" color="silver">evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.<p> This speed enables organizations to better serve their customers and compete more effectively in the market.</p>
+<img src="https://d1.awsstatic.com/product-marketing/DevOps/DevOps_feedback-diagram.ff668bfc299abada00b2dcbdc9ce2389bd3dce3f.png" width="600px" height="200">
+<h2><font size="5" color="green">How Does Devops Works:</font></h2>
+<p>Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, these two teams are merged into a single team where the engineers work across the entire application lifecycle, from development and test to deployment to operations, and develop a range of skills not limited to a single function.</p>
+In some DevOps models, quality assurance and security teams may also become more tightly integrated with development and operations and throughout the application lifecycle. When security is the focus of everyone on a DevOps team, this is sometimes referred to as DevSecOps.
+<p>These teams use practices to automate processes that historically have been manual and slow. They use a technology stack and tooling which help them operate and evolve applications quickly and reliably. These tools also help engineers independently accomplish tasks (for example, deploying code or provisioning infrastructure) that normally would have required help from other teams, and this further increases a team’s velocity.</p>
+<center><video controls="" loop="" autoplay="" poster="C:\Users\ADMIN\Videos\download.jpg" width="600px" height="300">
+<source src="https://almbok.com/_media/method/almbok.com_devops.mp4" type="video/mp4">
+</video></center>
+
+
+</font></body></html>
